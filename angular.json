@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "goty"
+  "defaultProject": "goty",
+  "cli": {
+    "analytics": false
+  }
 }
