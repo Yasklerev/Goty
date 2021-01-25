@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "goty-1a93e": {
+      "hosting": {
+        "goty": [
+          "goty-1a93e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "goty-1a93e"
+  }
+}
